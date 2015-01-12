@@ -21,6 +21,12 @@
 - [Laravel-Tricks.com] (http://www.laravel-tricks.com)
 - [Laravel-Recipes.com] (http://laravel-recipes.com)
 
+## Github repositories
+- [laravel.io] (https://github.com/LaravelIO/laravel.io)
+- [laravel-tricks.com] (https://github.com/CodepadME/laravel-tricks)
+- [laravel-recipes.com] (https://github.com/ChuckHeintzelman/laravel-recipes)
+- [Laravel Forum] (https://github.com/atrakeur/laravel-forum)
+
 ## About design & code in general
 - [Culttt.io] (http://culttt.com/code) - culttt.io again
 - [SapiensWork] (http://www.sapiensworks.com/blog/category/Domain-Driven-Design.aspx) - good articles about Domain Driven Design
