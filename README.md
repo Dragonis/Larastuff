@@ -6,7 +6,7 @@
 - [Taylor Otwell] (http://taylorotwell.com) - blog of Laravel creator
 
 ## General
-- [Culttt.io] (http://goo.gl/ZU8Smc) - lots of very useful articles about Laravel
+- [Culttt.com] (http://goo.gl/ZU8Smc) - lots of very useful articles about Laravel
 - [Code Bright by Dayle Rees] (http://daylerees.com/codebright/getting-started) - a must read
 - [Scotch.io] (https://scotch.io/tag/laravel) - another source of great Laravel tutorials
 - [Laravel Cheat Sheet] (http://alexrussell.me.uk/laravel-cheat-sheet)
@@ -28,7 +28,7 @@
 - [Laravel Forum] (https://github.com/atrakeur/laravel-forum)
 
 ## About design & code in general
-- [Culttt.io] (http://culttt.com/code) - culttt.io again
+- [Culttt.com] (http://culttt.com/code) - culttt.io again
 - [SapiensWork] (http://www.sapiensworks.com/blog/category/Domain-Driven-Design.aspx) - good articles about Domain Driven Design
 
 ## Useful packages
