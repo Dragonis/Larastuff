@@ -11,6 +11,7 @@
 - [Scotch.io] (https://scotch.io/tag/laravel) - another source of great Laravel tutorials
 - [Laravel Cheat Sheet] (http://alexrussell.me.uk/laravel-cheat-sheet)
 - [Another, huge Laravel Cheat Sheet] (http://cheats.jesse-obrien.ca)
+- [Softonsofa] (http://softonsofa.com) - a couple of great articles
 - [Laravel on Sitepoint] (http://www.sitepoint.com/?s=Laravel)
 
 ## Forums
