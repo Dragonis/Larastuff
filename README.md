@@ -1,8 +1,10 @@
 # Larastuff
 
 ## Official
-- [Laravel documentation] (http://laravel.com/docs/4.2)
-- [Laravel API reference] (http://laravel.com/api/4.2/)
+- [Laravel 5.0 documentation] (http://laravel.com/docs/5.0)
+- [Laravel 5.0 API reference] (http://laravel.com/api/5.0/)
+- [Laravel 4.2 documentation] (http://laravel.com/docs/4.2)
+- [Laravel 4.2 API reference] (http://laravel.com/api/4.2/)
 - [Taylor Otwell] (http://taylorotwell.com) - blog of Laravel creator
 
 ## General
